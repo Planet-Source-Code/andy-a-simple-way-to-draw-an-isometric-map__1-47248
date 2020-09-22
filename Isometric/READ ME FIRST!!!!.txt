@@ -1,0 +1,21 @@
+You need to download IsoEngine SDK for this program to work
+-----------------------------------------------------------
+1. Go to http://www.firstproductions.com/isoengine
+
+2. Click "Download Free Demo" on the left side of the page.  It is the third white link from the bottom.
+
+3. Click the link that says "IsoEngine SDK Demo Version 1.03" to download it. NOTE: By downloading this you agree to the EULA (there is a link to it at the top of the page).
+
+4. When it is done downloading, install IsoEngine Demo.
+-----------------------------------------------------------
+
+About, Copyright, and Legal Information
+---------------------------------------
+Created by the developer of IsoEngine.
+IsoEngine is Copyright © 2003, First Productions, Inc.
+IsoMap is not copyrighted.  Therefore, you may use and distribute this code if you want.
+By downloading IsoEngine Demo and/or installing and/or using it you agree to the End User License Agreement.  You can find it at http://www.firstproductions.com/soft/isoengine/html/isoengine__license_agreement.html
+
+Contact Information
+-------------------
+If you have questions or comments about IsoEngine, you can email me at isoengine@firstproductions.com
